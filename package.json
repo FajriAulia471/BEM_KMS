@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "tailwindcss build -i ./tailwind.css -o ./build.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  },
+  "dependencies": {
+    "humbleicons": "^1.10.0"
+  }
+}
